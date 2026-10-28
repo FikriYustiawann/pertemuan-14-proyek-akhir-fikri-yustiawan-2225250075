@@ -7,7 +7,6 @@
 | **Kelas** | 3-E |
 | **Jurusan** | Pendidikan Matematika |
 
-Tugas **Pertemuan 14** (Perancangan Proyek Program Sederhana) mata kuliah **Algoritma dan Pemrograman**, S1 Pendidikan Matematika FKIP Untirta, 2026/2027 Ganjil. Dikerjakan secara individu sesuai arahan dosen.
 
 ## Deskripsi
 
